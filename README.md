@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sir-njubi
-- I write `Typescript` and `Rust` for a living
-- I am  open to sesven figure deals
+- 👋 Hi, I’m @njubi
+- I write `Typescript` and `Rust`. 
+- I am  open to dev offers at your company or project
 - See you around
 <!---
 sir-njubi/sir-njubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
