@@ -1,4 +1,5 @@
-- 👋 Hi, I’m njubi, simon.
+## 👋 Hi, I’m njubi, simon.
+
 - I mostly write `Typescript` and `Go` when building stuff for the web.
 - Sometimes I'm messing around qith `Rust`
 - I am  open to dev offers at your company or project
