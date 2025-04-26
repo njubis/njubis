@@ -4,6 +4,9 @@
 - Sometimes I'm messing around with `Rust` & `Go`
 - **My website:** [njubi.dev](https://njubi.pages.dev)
 - **DM me on X:** [_njubis](https://x.com/_njubis)
+
+### I am open for any opportunities you may have
+**Njust send me an [njubi.dev@gmail.com]()**
 - See you around
 <!---
 sir-njubi/sir-njubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
