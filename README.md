@@ -1,4 +1,4 @@
-## 👋 Hi, My name is Njubi Simon**
+## 👋 Hi, I am Njubi Simon
 
 **A `"builder"` 🤓. Because building software is what I do.**
 
@@ -17,7 +17,7 @@
 
   - _**[Buy me a coffee.](https://buymeacoffee.com/simonnjubi)**_
 
-<p align="right" style="{font-style: italic}">find me on the internet</p>
+<p align="right" font="italic">find me on the internet</p>
 
 <br>
 
