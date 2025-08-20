@@ -17,11 +17,7 @@
 
   - _**[Buy me a coffee.](https://buymeacoffee.com/simonnjubi)**_
 
-<p align="right">
-
-_find me on the internet_
-
-</p>
+<p align="right" style="{font-style: italic}">find me on the internet</p>
 
 <br>
 
