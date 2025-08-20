@@ -1,14 +1,25 @@
-## 👋 Hi, I’m njubi, simon.
+## 👋 Hi,
 
-- I mostly write `Typescript` buidling web web products.
-- Sometimes I'm messing around with `Rust` & `Go`
-- **My website:** [njubi.dev](https://njubi.pages.dev)
-- **DM me on X:** [_njubis](https://x.com/_njubis)
+**My name is Njubi Simon**
+A `builder`. Because building software is what I do.
 
-### I am open for any opportunities you may have
-**Njust send me an [njubi.dev@gmail.com]()**
-- See you around
-<!---
-sir-njubi/sir-njubi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+<br>
+
+#### ⚡ Currently
+
+- Building [Qwikpen](https://qwikpen.com) ~ _you will love it_
+- Messing around with `Rust`
+- Contributing to [Qwik](https://qwik.dev) ecosystem
+
+**You dont have to sponsor me, but if you wish to support me, [Buy me a coffee.](https://buymeacoffee.com/simonnjubi)**
+
+<p align="right">
+    _find me on the internet_
+</p>
+
+<div align="right">
+**~** [njubi.dev](https://njubi.dev/)
+**~** [x.com/_njubi](https://x.com/_njubi/)
+**~** [oss@njubi.dev](mailto:oss@njubi.dev)
+</div>
