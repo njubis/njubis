@@ -14,8 +14,10 @@ A `"builder"` 🤓. Because building software is what I do.
 - Contributing to [Qwik](https://qwik.dev) ecosystem
 
 **If you think my open source work is worth an honest 'thank you':**
-    - _**[Buy me a coffee.](https://buymeacoffee.com/simonnjubi)**_
-    - _**[Buy me a coffee.](https://buymeacoffee.com/simonnjubi)**_
+
+   - _**[Buy me a coffee.](https://buymeacoffee.com/simonnjubi)**_
+
+   - _**[Buy me a coffee.](https://buymeacoffee.com/simonnjubi)**_
 
 <p align="right">
     _find me on the internet_
